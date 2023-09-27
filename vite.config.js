@@ -1,5 +1,5 @@
 // vite.config.js
 export default {
     // config options
-    base: "/App-jeux/",
+    base : "/App-jeux/",
   }
